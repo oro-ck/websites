@@ -12,6 +12,8 @@ https://fanfest-eu.finalfantasyxiv.com/2026
 https://ffxiv-fan-art-submission.sqexeu.com
 
 ## Decommissioned
-Avengers
-Outriders
-Tomb Raider
+- Avengers
+- Final Fantasy VII Hub
+- Outriders
+- Secret of Mana
+- Tomb Raider
